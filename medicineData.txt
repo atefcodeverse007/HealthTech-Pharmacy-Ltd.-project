@@ -1,0 +1,8 @@
+Napa,Square,2025-12-31,2023-01-15,Pain reliever,2,9989,0,50011
+Zimax,Square,2025-09-25,2023-03-22,Antibiotic for respiratory infections,25,5999,4,31001
+Ace,Beximco,2025-06-30,2023-02-20,Fever reducer,1.5,15000,0,45000
+Seftrim,Opsonin,2024-11-20,2022-07-25,Antibiotic,12,4000,0,25000
+Seclo,Eskayef,2026-10-10,2024-05-05,Acid reflux treatment,8,5000,5,30000
+Ciprocin,ACI,2026-01-05,2023-12-18,Antibiotic for infections,14,3000,2,18000
+Neotack,Renata,2025-04-12,2023-09-11,Anti-diarrheal,7,8000,0,22000
+Maxpro,Incepta,2027-03-15,2024-08-10,Gastric ulcer treatment,10,7000,3,20000
